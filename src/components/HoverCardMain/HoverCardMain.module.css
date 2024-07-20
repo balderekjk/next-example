@@ -1,0 +1,8 @@
+.mantine-HoverCard-dropdown {
+  color: red;
+  transition: all 2s ease-in-out;
+}
+
+.mantine-HoverCard-dropdown:hover {
+  transform: scale(2);
+}
